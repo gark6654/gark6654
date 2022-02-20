@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gark6654
+- 👋 Hi, I’m Garik Mkhitaryan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on ...
